@@ -1,0 +1,1133 @@
+[
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.01.55 AM.png",
+    "corners": [
+      [
+        937,
+        31
+      ],
+      [
+        2424,
+        31
+      ],
+      [
+        2424,
+        1516
+      ],
+      [
+        937,
+        1516
+      ]
+    ],
+    "fen": "r3r1kb/pp3p1p/2n3pP/6B1/Q1p5/2Pn1N2/PP1Kq1P1/3R3R w KQkq - 0 1",
+    "orientation": "B"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.02.12 AM.png",
+    "corners": [
+      [
+        724,
+        50
+      ],
+      [
+        1291,
+        50
+      ],
+      [
+        1291,
+        617
+      ],
+      [
+        724,
+        617
+      ]
+    ],
+    "fen": "7R/pp1k1N2/8/8/8/PnP3B1/1r2rPP1/1K6 w KQkq - 0 1",
+    "orientation": "B"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.38.20 AM.png",
+    "corners": [
+      [
+        272,
+        147
+      ],
+      [
+        615,
+        147
+      ],
+      [
+        615,
+        490
+      ],
+      [
+        272,
+        490
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.38.26 AM.png",
+    "corners": [
+      [
+        12,
+        9
+      ],
+      [
+        784,
+        9
+      ],
+      [
+        784,
+        779
+      ],
+      [
+        12,
+        779
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.38.43 AM.png",
+    "corners": [
+      [
+        592,
+        190
+      ],
+      [
+        883,
+        190
+      ],
+      [
+        883,
+        460
+      ],
+      [
+        592,
+        460
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.38.59 AM.png",
+    "corners": [
+      [
+        168,
+        71
+      ],
+      [
+        1245,
+        71
+      ],
+      [
+        1245,
+        1155
+      ],
+      [
+        168,
+        1155
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.42.12 AM.png",
+    "corners": [
+      [
+        131,
+        1
+      ],
+      [
+        966,
+        1
+      ],
+      [
+        966,
+        833
+      ],
+      [
+        131,
+        833
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.42.21 AM.png",
+    "corners": [
+      [
+        175,
+        138
+      ],
+      [
+        524,
+        138
+      ],
+      [
+        524,
+        489
+      ],
+      [
+        175,
+        489
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 3.42.30 AM.png",
+    "corners": [
+      [
+        695,
+        43
+      ],
+      [
+        1029,
+        43
+      ],
+      [
+        1029,
+        375
+      ],
+      [
+        695,
+        375
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.52.47 AM.png",
+    "corners": [
+      [
+        1113,
+        540
+      ],
+      [
+        2475,
+        540
+      ],
+      [
+        2475,
+        1903
+      ],
+      [
+        1113,
+        1903
+      ]
+    ],
+    "fen": "r6Q/p1pbk2p/3bp3/3p2qB/4n3/8/PPP2PPP/RN3RK1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.52.51 AM.png",
+    "corners": [
+      [
+        166,
+        79
+      ],
+      [
+        1532,
+        79
+      ],
+      [
+        1532,
+        1447
+      ],
+      [
+        166,
+        1447
+      ]
+    ],
+    "fen": "r6Q/p1pbk2p/3bp3/3p2qB/4n3/8/PPP2PPP/RN3RK1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.52.55 AM.png",
+    "corners": [
+      [
+        69,
+        49
+      ],
+      [
+        1430,
+        49
+      ],
+      [
+        1430,
+        1411
+      ],
+      [
+        69,
+        1411
+      ]
+    ],
+    "fen": "r6Q/p1pbk2p/3bp3/3p2qB/4n3/8/PPP2PPP/RN3RK1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.53.04 AM.png",
+    "corners": [
+      [
+        57,
+        31
+      ],
+      [
+        433,
+        31
+      ],
+      [
+        433,
+        408
+      ],
+      [
+        57,
+        408
+      ]
+    ],
+    "fen": "r6Q/p1pbk2p/3bp3/3p2qB/4n3/8/PPP2PPP/RN3RK1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.04 AM.png",
+    "corners": [
+      [
+        35,
+        85
+      ],
+      [
+        395,
+        85
+      ],
+      [
+        395,
+        446
+      ],
+      [
+        35,
+        446
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.06 AM.png",
+    "corners": [
+      [
+        490,
+        90
+      ],
+      [
+        1149,
+        90
+      ],
+      [
+        1149,
+        745
+      ],
+      [
+        490,
+        745
+      ]
+    ],
+    "fen": "rnbq1rk1/1p3p1p/p4np1/2bp4/8/2N1PN2/PPQ1BPPP/R1BR2K1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.08 AM.png",
+    "corners": [
+      [
+        575,
+        485
+      ],
+      [
+        1230,
+        485
+      ],
+      [
+        1230,
+        1143
+      ],
+      [
+        575,
+        1143
+      ]
+    ],
+    "fen": "rnbq1rk1/1p3p1p/p4np1/2bp4/8/2N1PN2/PPQ1BPPP/R1BR2K1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.10 AM.png",
+    "corners": [
+      [
+        325,
+        235
+      ],
+      [
+        677,
+        235
+      ],
+      [
+        677,
+        585
+      ],
+      [
+        325,
+        585
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.14 AM.png",
+    "corners": [
+      [
+        177,
+        269
+      ],
+      [
+        611,
+        269
+      ],
+      [
+        611,
+        701
+      ],
+      [
+        177,
+        701
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.18 AM.png",
+    "corners": [
+      [
+        70,
+        85
+      ],
+      [
+        768,
+        85
+      ],
+      [
+        768,
+        781
+      ],
+      [
+        70,
+        781
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.19 AM.png",
+    "corners": [
+      [
+        506,
+        19
+      ],
+      [
+        1205,
+        19
+      ],
+      [
+        1205,
+        716
+      ],
+      [
+        506,
+        716
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.21 AM.png",
+    "corners": [
+      [
+        207,
+        227
+      ],
+      [
+        902,
+        227
+      ],
+      [
+        902,
+        920
+      ],
+      [
+        207,
+        920
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.29 AM.png",
+    "corners": [
+      [
+        120,
+        74
+      ],
+      [
+        815,
+        74
+      ],
+      [
+        815,
+        765
+      ],
+      [
+        120,
+        765
+      ]
+    ],
+    "fen": "rnbqk2r/pp3ppp/2pbpn2/3p4/2P3P1/1P2PN2/PB1P1P1P/RN1QKB1R w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.30 AM.png",
+    "corners": [
+      [
+        110,
+        137
+      ],
+      [
+        791,
+        137
+      ],
+      [
+        791,
+        819
+      ],
+      [
+        110,
+        819
+      ]
+    ],
+    "fen": "r2qk2r/1pp2ppp/5n2/p1bBp3/P2nP1b1/3P1N2/1PPN1PPP/R1BQ1RK1 w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.34 AM.png",
+    "corners": [
+      [
+        164,
+        175
+      ],
+      [
+        899,
+        175
+      ],
+      [
+        899,
+        908
+      ],
+      [
+        164,
+        908
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.36 AM.png",
+    "corners": [
+      [
+        30,
+        36
+      ],
+      [
+        748,
+        36
+      ],
+      [
+        748,
+        730
+      ],
+      [
+        30,
+        730
+      ]
+    ],
+    "fen": "r2q1rk1/pb1nbpp1/1p3nQp/3Np1N1/2B4P/1P2P3/PB1P1PP1/R3K2R w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.39 AM.png",
+    "corners": [
+      [
+        211,
+        58
+      ],
+      [
+        537,
+        58
+      ],
+      [
+        537,
+        384
+      ],
+      [
+        211,
+        384
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.41 AM.png",
+    "corners": [
+      [
+        121,
+        499
+      ],
+      [
+        426,
+        499
+      ],
+      [
+        426,
+        805
+      ],
+      [
+        121,
+        805
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.44 AM.png",
+    "corners": [
+      [
+        44,
+        67
+      ],
+      [
+        388,
+        67
+      ],
+      [
+        388,
+        410
+      ],
+      [
+        44,
+        410
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.51 AM.png",
+    "corners": [
+      [
+        174,
+        33
+      ],
+      [
+        417,
+        33
+      ],
+      [
+        417,
+        276
+      ],
+      [
+        174,
+        276
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.53 AM.png",
+    "corners": [
+      [
+        410,
+        36
+      ],
+      [
+        651,
+        36
+      ],
+      [
+        651,
+        275
+      ],
+      [
+        410,
+        275
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.55 AM.png",
+    "corners": [
+      [
+        29,
+        45
+      ],
+      [
+        272,
+        45
+      ],
+      [
+        272,
+        285
+      ],
+      [
+        29,
+        285
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.57 AM.png",
+    "corners": [
+      [
+        268,
+        67
+      ],
+      [
+        1000,
+        67
+      ],
+      [
+        1000,
+        801
+      ],
+      [
+        268,
+        801
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.58.59 AM.png",
+    "corners": [
+      [
+        114,
+        206
+      ],
+      [
+        845,
+        206
+      ],
+      [
+        845,
+        941
+      ],
+      [
+        114,
+        941
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 5.59.03 AM.png",
+    "corners": [
+      [
+        211,
+        54
+      ],
+      [
+        535,
+        54
+      ],
+      [
+        535,
+        374
+      ],
+      [
+        211,
+        374
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.13 AM.png",
+    "corners": [
+      [
+        241,
+        116
+      ],
+      [
+        510,
+        116
+      ],
+      [
+        510,
+        382
+      ],
+      [
+        241,
+        382
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.17 AM.png",
+    "corners": [
+      [
+        481,
+        48
+      ],
+      [
+        876,
+        48
+      ],
+      [
+        876,
+        436
+      ],
+      [
+        481,
+        436
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.27 AM.png",
+    "corners": [
+      [
+        162,
+        100
+      ],
+      [
+        507,
+        100
+      ],
+      [
+        507,
+        440
+      ],
+      [
+        162,
+        440
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.36 AM.png",
+    "corners": [
+      [
+        36,
+        32
+      ],
+      [
+        381,
+        32
+      ],
+      [
+        381,
+        372
+      ],
+      [
+        36,
+        372
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.45 AM.png",
+    "corners": [
+      [
+        201,
+        123
+      ],
+      [
+        458,
+        123
+      ],
+      [
+        458,
+        379
+      ],
+      [
+        201,
+        379
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.56 AM.png",
+    "corners": [
+      [
+        188,
+        39
+      ],
+      [
+        625,
+        39
+      ],
+      [
+        625,
+        470
+      ],
+      [
+        188,
+        470
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.13.58 AM.png",
+    "corners": [
+      [
+        379,
+        26
+      ],
+      [
+        816,
+        26
+      ],
+      [
+        816,
+        456
+      ],
+      [
+        379,
+        456
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.14.03 AM.png",
+    "corners": [
+      [
+        85,
+        48
+      ],
+      [
+        546,
+        48
+      ],
+      [
+        546,
+        512
+      ],
+      [
+        85,
+        512
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.14.07 AM.png",
+    "corners": [
+      [
+        44,
+        54
+      ],
+      [
+        312,
+        54
+      ],
+      [
+        312,
+        321
+      ],
+      [
+        44,
+        321
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 7.14.13 AM.png",
+    "corners": [
+      [
+        186,
+        91
+      ],
+      [
+        944,
+        91
+      ],
+      [
+        944,
+        839
+      ],
+      [
+        186,
+        839
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/screenshot.png",
+    "corners": [
+      [
+        294,
+        98
+      ],
+      [
+        1872,
+        98
+      ],
+      [
+        1872,
+        1681
+      ],
+      [
+        294,
+        1681
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/youtubevideoscreenshot.png",
+    "corners": [
+      [
+        391,
+        196
+      ],
+      [
+        800,
+        196
+      ],
+      [
+        800,
+        599
+      ],
+      [
+        391,
+        599
+      ]
+    ]
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 4.16.20 PM.png",
+    "corners": [
+      [
+        448,
+        175
+      ],
+      [
+        1517,
+        175
+      ],
+      [
+        1517,
+        1243
+      ],
+      [
+        448,
+        1243
+      ]
+    ],
+    "fen": "r4rk1/ppp2ppp/2nqb3/3pN3/1b1P1Bn1/2NQ4/PP2BPPP/2R2RK1 w KQkq - 0 1",
+    "orientation": "B"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 4.16.25 PM.png",
+    "corners": [
+      [
+        1065,
+        401
+      ],
+      [
+        1691,
+        401
+      ],
+      [
+        1691,
+        1020
+      ],
+      [
+        1065,
+        1020
+      ]
+    ],
+    "fen": "r4rk1/ppp2ppp/2nqb3/3pN3/1b1P1Bn1/2NQ4/PP2BPPP/2R2RK1 w KQkq - 0 1",
+    "orientation": "B"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 4.23.54 PM.png",
+    "corners": [
+      [
+        202,
+        767
+      ],
+      [
+        1221,
+        767
+      ],
+      [
+        1221,
+        1779
+      ],
+      [
+        202,
+        1779
+      ]
+    ],
+    "fen": "rnbqk1nr/pp1pppbp/6p1/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 4.24.55 PM.png",
+    "corners": [
+      [
+        908,
+        458
+      ],
+      [
+        1969,
+        458
+      ],
+      [
+        1969,
+        1511
+      ],
+      [
+        908,
+        1511
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  },
+  {
+    "image_path": "data/screenshots/Screenshot 2025-12-11 at 4.25.37 PM.png",
+    "corners": [
+      [
+        236,
+        79
+      ],
+      [
+        1090,
+        79
+      ],
+      [
+        1090,
+        932
+      ],
+      [
+        236,
+        932
+      ]
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "orientation": "W"
+  }
+]
